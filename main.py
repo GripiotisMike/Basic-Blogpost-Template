@@ -7,7 +7,7 @@ load_dotenv()  # Load environment variables from .env file
 
 app = Flask(__name__)
 
-API_URL = os.getenv("API_URL")  # Get the API URL from the .env file
+API_URL = os.getenv("example_dict")  # Get the API URL from the .env file
 
 @app.route('/')
 def home():
