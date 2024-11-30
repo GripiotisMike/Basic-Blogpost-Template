@@ -35,3 +35,9 @@ Basic Blogpost Template/
 3. Install dependencies: pip install flask, requests, dotenv
 4. Make your API with the info you want to be displayed in your Blogspot and replace it in .env and main.py
 5. Run the application: python main.py
+
+---
+
+## Usage
+- Access the application at http://127.0.0.1:5000/
+- Browse blog posts and view individual blog details
